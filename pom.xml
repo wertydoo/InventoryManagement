@@ -97,6 +97,7 @@
                 <version>2.2.0</version>
                 <configuration>
                     <deploy.projectId>bw-rampup-sandbox</deploy.projectId>
+                    <deploy.stopPreviousVersion>true</deploy.stopPreviousVersion>
                     <deploy.version>1</deploy.version>
                 </configuration>
             </plugin>
